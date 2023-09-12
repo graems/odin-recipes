@@ -9,5 +9,6 @@ The aim is to practice basic html. This includes:
 - links
 - headings
 - paragraphs
+- images
 
  
