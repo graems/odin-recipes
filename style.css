@@ -19,3 +19,24 @@ ol {
     display: inline-block;
     text-align: left;
 }
+
+.block {
+    box-sizing: border-box;
+    width: 640px;
+    margin: 2px auto;
+    display: block;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.eu {
+    background-color: violet;
+}
+
+.us {
+    background-color: goldenrod;
+}
+
+.hu {
+    background-color: rgb(202, 29, 29);
+}
